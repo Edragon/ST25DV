@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['nb_5falternative_5fcarrier',['nb_alternative_carrier',['../struct_ndef___handover__t.html#a17957926be848b07636b1bb72dfd8622',1,'Ndef_Handover_t']]],
+  ['nbmanufacturerdata',['nbManufacturerData',['../struct_ndef___bluetooth___o_o_b__t.html#a4df023acfd6fc6931328179f9be7f951',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbservicedata',['nbServiceData',['../struct_ndef___bluetooth___o_o_b__t.html#a60d524e8e1935f3b3531eea7036eb055',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbservicesolicitation128',['nbServiceSolicitation128',['../struct_ndef___bluetooth___o_o_b__t.html#a2a1fd485d099bb1ddf0fd82d3049eab2',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbservicesolicitation16',['nbServiceSolicitation16',['../struct_ndef___bluetooth___o_o_b__t.html#af2481f9d0ad164cde64d5c5d83f507c0',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbunknown',['nbUnknown',['../struct_ndef___bluetooth___o_o_b__t.html#a0d0718ad44c398e7d4f485148edbf755',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbuuid128',['nbUUID128',['../struct_ndef___bluetooth___o_o_b__t.html#abd009721766ab8463eb4aaa98e01959e',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbuuid16',['nbUUID16',['../struct_ndef___bluetooth___o_o_b__t.html#a90ad0ae48c6f1f7da233a17f32029eb7',1,'Ndef_Bluetooth_OOB_t']]],
+  ['nbuuid32',['nbUUID32',['../struct_ndef___bluetooth___o_o_b__t.html#a52ceb5ecb9c8fc5b01aba0d5a5cc9ba2',1,'Ndef_Bluetooth_OOB_t']]],
+  ['ndef_5fbuffer',['NDEF_Buffer',['../group__lib_n_d_e_f___private___functions.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_d_e_f___private___functions.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_f_c___f_o_r_u_m.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_f_c___f_o_r_u_m.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_f_c___f_o_r_u_m.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_f_c___f_o_r_u_m.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_f_c___f_o_r_u_m.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_f_c___f_o_r_u_m.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib___n_d_e_f___vcard.html#ga557f4b087d8da6315a7bde39f6b7a82d',1,'NDEF_Buffer():&#160;lib_NDEF.c'],['../group__lib___n_d_e_f___wifi.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_NDEF.c']]],
+  ['ndef_5fbuffer_5fsize',['NDEF_Buffer_size',['../group__lib_n_d_e_f___private___functions.html#ga2fa1ad2969a52acb42aa9726f8fd2557',1,'NDEF_Buffer_size():&#160;lib_NDEF.c'],['../group__lib_n_d_e_f___private___functions.html#ga2fa1ad2969a52acb42aa9726f8fd2557',1,'NDEF_Buffer_size():&#160;lib_NDEF.c']]],
+  ['ndef_5foffset',['NDEF_offset',['../structs_c_c_file_info.html#ad13c87663994dc19bf88753184c59608',1,'sCCFileInfo']]],
+  ['ndef_5frecord_5fbuffer',['NDEF_Record_Buffer',['../group__lib_n_d_e_f___private___functions.html#gaff2f7f4aa66f67bab969a935401da4c3',1,'NDEF_Record_Buffer():&#160;lib_NDEF.c'],['../group__lib_n_d_e_f___private___functions.html#gaff2f7f4aa66f67bab969a935401da4c3',1,'NDEF_Record_Buffer():&#160;lib_NDEF.c']]],
+  ['ndef_5frecord_5fbuffer_5fsize',['NDEF_Record_Buffer_size',['../group__lib_n_d_e_f___private___functions.html#ga0836c46ce3be3b5c7f8f8ff75a3004b3',1,'NDEF_Record_Buffer_size():&#160;lib_NDEF.c'],['../group__lib_n_d_e_f___private___functions.html#ga0836c46ce3be3b5c7f8f8ff75a3004b3',1,'NDEF_Record_Buffer_size():&#160;lib_NDEF.c']]],
+  ['networkkey',['NetworkKey',['../structs_wifi_token_info.html#a9f7883f1351b379c22a6e4ba058222ee',1,'sWifiTokenInfo']]],
+  ['networkssid',['NetworkSSID',['../structs_wifi_token_info.html#a76901c15a238d72a7ae3f9e964e18341',1,'sWifiTokenInfo']]]
+];

@@ -1,0 +1,7 @@
+<map id="BSP" name="BSP">
+<area shape="rect" id="node1" href="$group___s_t25_d_v.html" title="This module implements the functions to drive the ST25DV NFC dynamic tag. " alt="" coords="143,5,247,32"/>
+<area shape="rect" id="node2" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___n_f_c_t_a_g.html" title="This module provides high&#45;level functions to access the ST25DV NFC dynamic tag. " alt="" coords="103,57,287,98"/>
+<area shape="rect" id="node4" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y.html" title="ST25DX_DISCOVERY" alt="" coords="119,123,270,149"/>
+<area shape="rect" id="node5" href="$group___components.html" title="Components" alt="" coords="147,173,242,200"/>
+<area shape="rect" id="node6" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___b_s_p.html" title="The Board support package for the ST25DX Discovery. " alt="" coords="121,224,269,251"/>
+</map>

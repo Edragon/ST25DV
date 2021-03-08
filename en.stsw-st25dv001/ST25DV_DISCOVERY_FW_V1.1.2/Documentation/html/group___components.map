@@ -1,0 +1,17 @@
+<map id="Components" name="Components">
+<area shape="rect" id="node1" href="$group___b_s_p.html" title="Container module for the BSP modules. " alt="" coords="5,335,55,361"/>
+<area shape="rect" id="node2" href="$group___g_y_r_o.html" title="GYRO" alt="" coords="262,5,322,32"/>
+<area shape="rect" id="node3" href="$group___c_a_m_e_r_a.html" title="CAMERA" alt="" coords="253,56,331,83"/>
+<area shape="rect" id="node4" href="$group___i_o.html" title="IO" alt="" coords="273,107,311,133"/>
+<area shape="rect" id="node5" href="$group___a_u_d_i_o.html" title="AUDIO" alt="" coords="261,157,323,184"/>
+<area shape="rect" id="node6" href="$group___t_s_e_n_s_o_r.html" title="TSENSOR" alt="" coords="250,208,334,235"/>
+<area shape="rect" id="node7" href="$group___l_c_d.html" title="LCD" alt="" coords="269,259,315,285"/>
+<area shape="rect" id="node8" href="$group___t_s.html" title="TS" alt="" coords="273,309,311,336"/>
+<area shape="rect" id="node10" href="$group___common.html" title="Common" alt="" coords="255,360,329,387"/>
+<area shape="rect" id="node11" href="$group___s_t_m_p_e811.html" title="STMPE811" alt="" coords="248,411,336,437"/>
+<area shape="rect" id="node12" href="$group___i_l_i9341.html" title="This file provides a set of functions needed to drive the ILI9341 LCD. " alt="" coords="261,461,323,488"/>
+<area shape="rect" id="node13" href="$group___a_c_c_e_l_e_r_o.html" title="ACCELERO" alt="" coords="245,512,339,539"/>
+<area shape="rect" id="node14" href="$group___i_d_d.html" title="IDD" alt="" coords="271,563,313,589"/>
+<area shape="rect" id="node15" href="$group___d_p_o_t.html" title="DPOT" alt="" coords="263,613,321,640"/>
+<area shape="rect" id="node16" href="$group___m_a_g_n_e_t_o.html" title="MAGNETO" alt="" coords="249,664,335,691"/>
+</map>

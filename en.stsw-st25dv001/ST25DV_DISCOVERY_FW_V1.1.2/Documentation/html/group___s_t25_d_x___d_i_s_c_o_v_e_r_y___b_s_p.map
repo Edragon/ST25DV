@@ -1,0 +1,9 @@
+<map id="ST25DX DISCOVERY" name="ST25DX DISCOVERY">
+<area shape="rect" id="node1" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___t_s.html" title="ST25DX Discovery Touchscreen" alt="" coords="299,5,505,32"/>
+<area shape="rect" id="node2" href="$group___s_t25_d_x___b_l_u_e_n_r_g___b_l_e.html" title="ST25DX BlueNRG BLE" alt="" coords="325,56,479,83"/>
+<area shape="rect" id="node3" href="$group___b_s_p.html" title="Container module for the BSP modules. " alt="" coords="5,136,55,163"/>
+<area shape="rect" id="node4" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___w_i_f_i.html" title="Wi&#45;Fi_driver modules. " alt="" coords="313,107,491,133"/>
+<area shape="rect" id="node5" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___d_p_o_t.html" title="ST25 DISCOVERY DIGITAL\l POTENTIOMETER" alt="" coords="310,158,494,199"/>
+<area shape="rect" id="node6" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___l_c_d.html" title="This file includes the LCD driver for (ILI9341) " alt="" coords="313,224,491,251"/>
+<area shape="rect" id="node7" href="$group___s_t25_d_x___d_i_s_c_o_v_e_r_y___l_o_w___l_e_v_e_l.html" title="This file provides set of firmware functions to manage Leds and push&#45;button available on ST25DX Disco..." alt="" coords="311,275,493,317"/>
+</map>

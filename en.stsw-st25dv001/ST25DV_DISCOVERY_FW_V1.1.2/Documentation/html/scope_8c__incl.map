@@ -1,0 +1,24 @@
+<map id="C:/Users/lemonnir/Temp/Git/export/Projects/ST25DV&#45;Discovery/Demonstrations/ST25DVDemo/Src/scope.c" name="C:/Users/lemonnir/Temp/Git/export/Projects/ST25DV&#45;Discovery/Demonstrations/ST25DVDemo/Src/scope.c">
+<area shape="rect" id="node4" href="$scope_8h.html" title="Header for scope.c module. " alt="" coords="222,131,290,158"/>
+<area shape="rect" id="node5" href="$st25dx__discovery__ts_8h.html" title="This file contains all the functions prototypes for the st25dx_discovery_ts.c driver. " alt="" coords="2155,131,2306,158"/>
+<area shape="rect" id="node14" href="$_menu__config_8h.html" title="Menu configuration header file. " alt="" coords="2487,221,2593,247"/>
+<area shape="rect" id="node17" href="$oscillo1__bkgdtop__jpg_8h.html" title="Oscilloscope top background image in C array format. " alt="" coords="492,131,647,158"/>
+<area shape="rect" id="node18" href="$oscillo1__bkgdleft__jpg_8h.html" title="Oscilloscope left background image in C array format. " alt="" coords="671,131,825,158"/>
+<area shape="rect" id="node19" href="$oscillo1__bkgdright__jpg_8h.html" title="Oscilloscope right background image in C array format. " alt="" coords="849,124,975,165"/>
+<area shape="rect" id="node20" href="$oscillo1__bkgdbottom__jpg_8h.html" title="Oscilloscope bottom background image in C array format. " alt="" coords="1000,124,1141,165"/>
+<area shape="rect" id="node21" href="$oscillo1__offset__jpg_8h.html" title="Oscilloscope offset image in C array format. " alt="" coords="1165,131,1304,158"/>
+<area shape="rect" id="node22" href="$oscillo1__offset2__jpg_8h.html" title="Oscilloscope offset channel 2 image in C array format. " alt="" coords="1328,131,1475,158"/>
+<area shape="rect" id="node23" href="$oscillo1__ch1__jpg_8h.html" title="Oscilloscope channel 1 image in C array format. " alt="" coords="1499,131,1629,158"/>
+<area shape="rect" id="node24" href="$oscillo1__bckch1__jpg_8h.html" title="Oscilloscope channel1 background image in C array format. " alt="" coords="1653,131,1803,158"/>
+<area shape="rect" id="node25" href="$oscillo1__ch2__jpg_8h.html" title="Oscilloscope channel 2 image in C array format. " alt="" coords="1827,131,1957,158"/>
+<area shape="rect" id="node26" href="$oscillo1__bckch2__jpg_8h.html" title="Oscilloscope channel2 background image in C array format. " alt="" coords="1981,131,2131,158"/>
+<area shape="rect" id="node27" href="$font8_8c.html" title="This file provides text Font8 for STM32xx&#45;EVAL&#39;s LCD driver. " alt="" coords="407,131,468,158"/>
+<area shape="rect" id="node29" href="$font16_8c.html" title="This file provides text font16 for STM32xx&#45;EVAL&#39;s LCD driver. " alt="" coords="314,131,382,158"/>
+<area shape="rect" id="node6" href="$st25dx__discovery_8h.html" title="This file contains definitions for ST25Dx&#45;Discovery Kit LEDs, push&#45;buttons hardware resources..." alt="" coords="1957,221,2091,247"/>
+<area shape="rect" id="node9" href="$st25dx__discovery__errno_8h.html" title="This file provides set of BSP error number. " alt="" coords="1731,303,1901,329"/>
+<area shape="rect" id="node10" href="$stmpe811_8h.html" title="This file contains all the functions prototypes for the stmpe811.c IO expander driver. " alt="" coords="2227,213,2395,255"/>
+<area shape="rect" id="node11" href="$ts_8h.html" title="This file contains all the functions prototypes for the Touch Screen driver. " alt="" coords="2391,303,2503,329"/>
+<area shape="rect" id="node13" href="$io_8h.html" title="This file contains all the functions prototypes for the IO driver. " alt="" coords="2255,303,2366,329"/>
+<area shape="rect" id="node15" href="$_menu__core_8h_source.html" title="Menu_core.h" alt="" coords="2578,303,2675,329"/>
+<area shape="rect" id="node28" href="$fonts_8h.html" title="Header for fonts.c file. " alt="" coords="407,221,468,247"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sMenu" name="sMenu">
+<area shape="rect" id="node2" href="$structs_menu_item.html" title="sMenuItem" alt="" coords="27,184,113,211"/>
+<area shape="rect" id="node3" href="$struct_menu___geometry__t.html" title="Menu_Geometry_t" alt="" coords="5,5,135,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sMyAppInfo" name="sMyAppInfo">
+<area shape="rect" id="node2" href="$structs_line_config.html" title="sLineConfig" alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node3" href="$structs_led_blink_config.html" title="sLedBlinkConfig" alt="" coords="119,5,234,32"/>
+</map>

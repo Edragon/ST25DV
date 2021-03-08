@@ -1,0 +1,35 @@
+<map id="C:/Users/lemonnir/Temp/Git/export/Middlewares/ST/lib_nfc/lib_NDEF/Core/inc/lib_NDEF.h" name="C:/Users/lemonnir/Temp/Git/export/Middlewares/ST/lib_nfc/lib_NDEF/Core/inc/lib_NDEF.h">
+<area shape="rect" id="node2" href="$tagtype3__wrapper_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Middlewares\l/ST/lib_nfc/common/inc/tagtype3\l_wrapper.h" alt="" coords="5,124,217,195"/>
+<area shape="rect" id="node3" href="$tagtype4__wrapper_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Middlewares\l/ST/lib_nfc/common/inc/tagtype4\l_wrapper.h" alt="" coords="241,124,453,195"/>
+<area shape="rect" id="node4" href="$tagtype5__wrapper_8h.html" title="This file provides an abstraction layer to the libNDEF for the NFC Forum Type5 Tag. " alt="" coords="676,124,888,195"/>
+<area shape="rect" id="node7" href="$lib___n_d_e_f___a_a_r_8h.html" title="This file help to manage AAR. " alt="" coords="963,124,1137,195"/>
+<area shape="rect" id="node9" href="$_inc_2ndef__demo_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/ndef_demo.h" alt="" coords="1912,243,2119,313"/>
+<area shape="rect" id="node10" href="$_fw_upgd_2_inc_2ndef__demo_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/ndef_demo.h" alt="" coords="1626,243,1887,313"/>
+<area shape="rect" id="node12" href="$lib___n_d_e_f___bluetooth_8h.html" title="This file help to manage a NDEF file representing a Bluetooth pairing info. " alt="" coords="2593,124,2768,195"/>
+<area shape="rect" id="node13" href="$lib___n_d_e_f_8c.html" title="This file help to manage NDEF file, to parse and identify them. " alt="" coords="2938,243,3111,313"/>
+<area shape="rect" id="node15" href="$lib___n_d_e_f__config_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Middlewares\l/ST/lib_nfc/lib_NDEF/Core\l/inc/lib_NDEF_config.h" alt="" coords="478,124,651,195"/>
+<area shape="rect" id="node16" href="$lib___n_d_e_f___email_8h.html" title="This file help to manage Email NDEF file. " alt="" coords="1161,124,1334,195"/>
+<area shape="rect" id="node18" href="$lib___n_d_e_f___geo_8h.html" title="This file help to manage Geolocation NDEF file. " alt="" coords="1555,124,1729,195"/>
+<area shape="rect" id="node20" href="$lib___n_d_e_f___handover_8h.html" title="This file helps to manage a NDEF Handover message. " alt="" coords="2395,124,2569,195"/>
+<area shape="rect" id="node22" href="$lib___n_d_e_f___my_app_8h.html" title="This file illustrate how to use M24SR with a proprietary protocol. " alt="" coords="1358,124,1531,195"/>
+<area shape="rect" id="node24" href="$lib___n_d_e_f___s_m_s_8h.html" title="This file help to manage SMS NDEF file. " alt="" coords="1753,124,1926,195"/>
+<area shape="rect" id="node26" href="$lib___n_d_e_f___text_8h.html" title="This file help to manage Text NDEF file. " alt="" coords="3041,124,3214,195"/>
+<area shape="rect" id="node28" href="$lib___n_d_e_f___u_r_i_8h.html" title="This file help to manage URI NDEF file. " alt="" coords="1950,124,2123,195"/>
+<area shape="rect" id="node30" href="$lib___n_d_e_f___vcard_8h.html" title="This file help to manage Vcard NDEF file. " alt="" coords="2147,124,2321,195"/>
+<area shape="rect" id="node32" href="$lib___n_d_e_f___wifi_8h.html" title="This file helps to manage the NDEF message representing a Wifi Token. " alt="" coords="2793,124,2966,195"/>
+<area shape="rect" id="node34" href="$lib__95_h_f__wrapper_8c.html" title="Interface for xx95HF in order to use NDEF lib. " alt="" coords="3238,124,3411,195"/>
+<area shape="rect" id="node5" href="$tagtype5__wrapper_8c.html" title="This file provides an abstraction layer to the libNDEF for the NFC Forum Type5 Tag. " alt="" coords="391,243,565,313"/>
+<area shape="rect" id="node6" href="$ndef__demo_8c.html" title="This file provides functions to execute NDEF demos. " alt="" coords="950,361,1161,432"/>
+<area shape="rect" id="node8" href="$lib___n_d_e_f___a_a_r_8c.html" title="This file help to add AAR to NDEF file. " alt="" coords="639,243,813,313"/>
+<area shape="rect" id="node11" href="$_menu__definition_8c.html" title="This file defines the content of the menu for the ST25DV demo. " alt="" coords="1638,361,1875,432"/>
+<area shape="rect" id="node14" href="$lib___n_d_e_f___bluetooth_8c.html" title="This file help to manage a NDEF file representing a Bluetooth pairing info. " alt="" coords="2738,243,2914,313"/>
+<area shape="rect" id="node17" href="$lib___n_d_e_f___email_8c.html" title="This file help to manage NDEF file that represent Email. " alt="" coords="837,243,1010,313"/>
+<area shape="rect" id="node19" href="$lib___n_d_e_f___geo_8c.html" title="This file help to manage NDEF file that represent geolocation. " alt="" coords="1231,243,1405,313"/>
+<area shape="rect" id="node21" href="$lib___n_d_e_f___handover_8c.html" title="This file helps to manage a NDEF Handover message. &#160;" alt="" coords="2539,243,2713,313"/>
+<area shape="rect" id="node23" href="$lib___n_d_e_f___my_app_8c.html" title="This file help to manage the NDEF file of a private application. " alt="" coords="1034,243,1207,313"/>
+<area shape="rect" id="node25" href="$lib___n_d_e_f___s_m_s_8c.html" title="This file help to manage NDEF file that represent SMS. " alt="" coords="1429,243,1602,313"/>
+<area shape="rect" id="node27" href="$lib___n_d_e_f___text_8c.html" title="This file help to manage Text NDEF file. " alt="" coords="3333,243,3506,313"/>
+<area shape="rect" id="node29" href="$lib___n_d_e_f___u_r_i_8c.html" title="This file help to manage NDEF file that represent URI. " alt="" coords="2143,243,2317,313"/>
+<area shape="rect" id="node31" href="$lib___n_d_e_f___vcard_8c.html" title="This file help to manage NDEF file that represent Vcard. " alt="" coords="2341,243,2514,313"/>
+<area shape="rect" id="node33" href="$lib___n_d_e_f___wifi_8c.html" title="This file helps to manage a NDEF message representing a Wifi Token. " alt="" coords="3135,243,3309,313"/>
+</map>

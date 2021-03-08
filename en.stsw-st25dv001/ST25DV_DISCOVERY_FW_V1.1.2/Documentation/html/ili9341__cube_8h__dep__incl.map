@@ -1,0 +1,51 @@
+<map id="C:/Users/lemonnir/Temp/Git/export/Drivers/BSP/Components/ili9341_cube/ili9341_cube.h" name="C:/Users/lemonnir/Temp/Git/export/Drivers/BSP/Components/ili9341_cube/ili9341_cube.h">
+<area shape="rect" id="node2" href="$ili9341__cube_8c.html" title="This file includes the LCD driver for ILI9341 LCD. " alt="" coords="2326,124,2501,195"/>
+<area shape="rect" id="node3" href="$st25dx__discovery__lcd_8h.html" title="This file contains all the functions prototypes for the st25dx_discovery_lcd.c driver. " alt="" coords="2525,131,2779,187"/>
+<area shape="rect" id="node4" href="$st25dx__discovery__lcd_8c.html" title="This file includes the LCD driver for ILI9341 Liquid Crystal Display Modules of ST25DX&#45;Discovery kit..." alt="" coords="1541,250,1795,306"/>
+<area shape="rect" id="node5" href="$_inc_2common_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/common.h" alt="" coords="1820,243,2015,313"/>
+<area shape="rect" id="node11" href="$ndef__demo_8c.html" title="This file provides functions to execute NDEF demos. " alt="" coords="3705,836,3916,907"/>
+<area shape="rect" id="node12" href="$_fw_upgd_2_inc_2common_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/common.h" alt="" coords="3401,243,3649,313"/>
+<area shape="rect" id="node6" href="$_inc_2commonfunc_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/commonfunc.h" alt="" coords="1881,361,2100,432"/>
+<area shape="rect" id="node7" href="$_inc_2mailbox_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/mailbox.h" alt="" coords="1608,480,1797,551"/>
+<area shape="rect" id="node8" href="$_inc_2main_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/main.h" alt="" coords="1381,361,1568,432"/>
+<area shape="rect" id="node10" href="$_inc_2mailboxfunc_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/mailboxfunc.h" alt="" coords="1593,361,1807,432"/>
+<area shape="rect" id="node9" href="$_inc_2fw__command_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/fw_command.h" alt="" coords="1363,480,1583,551"/>
+<area shape="rect" id="node13" href="$lib__flash__ndef_8h.html" title="This file provides set of functions to write or read the NDEF file into flash. " alt="" coords="3439,361,3612,432"/>
+<area shape="rect" id="node15" href="$lib__wrapper_8h.html" title="This file help to have upper layer independent from HW. " alt="" coords="2865,361,3039,432"/>
+<area shape="rect" id="node44" href="$_fw_upgd_2_inc_2commonfunc_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/commonfunc.h" alt="" coords="3636,361,3908,432"/>
+<area shape="rect" id="node46" href="$_fw_upgd_2_inc_2mailbox_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/mailbox.h" alt="" coords="3848,480,4091,551"/>
+<area shape="rect" id="node48" href="$_fw_upgd_2_inc_2main_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/main.h" alt="" coords="3188,361,3415,432"/>
+<area shape="rect" id="node50" href="$_fw_upgd_2_inc_2mailboxfunc_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/mailboxfunc.h" alt="" coords="3983,361,4249,432"/>
+<area shape="rect" id="node14" href="$lib__flash__ndef_8c.html" title="This file provides set of functions to write or read the NDEF file into flash. " alt="" coords="3600,480,3773,551"/>
+<area shape="rect" id="node16" href="$lib___n_d_e_f_8h.html" title="This file help to manage NDEF file. " alt="" coords="1821,480,1995,551"/>
+<area shape="rect" id="node43" href="$lib__95_h_f__wrapper_8c.html" title="Interface for xx95HF in order to use NDEF lib. " alt="" coords="3237,599,3411,669"/>
+<area shape="rect" id="node17" href="$tagtype3__wrapper_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Middlewares\l/ST/lib_nfc/common/inc/tagtype3\l_wrapper.h" alt="" coords="2765,599,2977,669"/>
+<area shape="rect" id="node18" href="$tagtype4__wrapper_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Middlewares\l/ST/lib_nfc/common/inc/tagtype4\l_wrapper.h" alt="" coords="3001,599,3213,669"/>
+<area shape="rect" id="node19" href="$tagtype5__wrapper_8h.html" title="This file provides an abstraction layer to the libNDEF for the NFC Forum Type5 Tag. " alt="" coords="2529,599,2741,669"/>
+<area shape="rect" id="node21" href="$lib___n_d_e_f___a_a_r_8h.html" title="This file help to manage AAR. " alt="" coords="5,599,179,669"/>
+<area shape="rect" id="node23" href="$_inc_2ndef__demo_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo/Inc/ndef_demo.h" alt="" coords="1026,717,1233,788"/>
+<area shape="rect" id="node24" href="$_fw_upgd_2_inc_2ndef__demo_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/ndef_demo.h" alt="" coords="1325,717,1587,788"/>
+<area shape="rect" id="node26" href="$lib___n_d_e_f___bluetooth_8h.html" title="This file help to manage a NDEF file representing a Bluetooth pairing info. " alt="" coords="2081,599,2255,669"/>
+<area shape="rect" id="node27" href="$lib___n_d_e_f_8c.html" title="This file help to manage NDEF file, to parse and identify them. " alt="" coords="2079,717,2252,788"/>
+<area shape="rect" id="node29" href="$lib___n_d_e_f__config_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Middlewares\l/ST/lib_nfc/lib_NDEF/Core\l/inc/lib_NDEF_config.h" alt="" coords="2331,599,2504,669"/>
+<area shape="rect" id="node30" href="$lib___n_d_e_f___email_8h.html" title="This file help to manage Email NDEF file. " alt="" coords="203,599,376,669"/>
+<area shape="rect" id="node32" href="$lib___n_d_e_f___geo_8h.html" title="This file help to manage Geolocation NDEF file. " alt="" coords="597,599,771,669"/>
+<area shape="rect" id="node34" href="$lib___n_d_e_f___handover_8h.html" title="This file helps to manage a NDEF Handover message. " alt="" coords="1883,599,2056,669"/>
+<area shape="rect" id="node36" href="$lib___n_d_e_f___my_app_8h.html" title="This file illustrate how to use M24SR with a proprietary protocol. " alt="" coords="1437,599,1611,669"/>
+<area shape="rect" id="node38" href="$lib___n_d_e_f___s_m_s_8h.html" title="This file help to manage SMS NDEF file. " alt="" coords="1240,599,1413,669"/>
+<area shape="rect" id="node39" href="$lib___n_d_e_f___text_8h.html" title="This file help to manage Text NDEF file. " alt="" coords="400,599,573,669"/>
+<area shape="rect" id="node40" href="$lib___n_d_e_f___u_r_i_8h.html" title="This file help to manage URI NDEF file. " alt="" coords="845,599,1019,669"/>
+<area shape="rect" id="node41" href="$lib___n_d_e_f___vcard_8h.html" title="This file help to manage Vcard NDEF file. " alt="" coords="1043,599,1216,669"/>
+<area shape="rect" id="node42" href="$lib___n_d_e_f___wifi_8h.html" title="This file helps to manage the NDEF message representing a Wifi Token. " alt="" coords="1635,599,1808,669"/>
+<area shape="rect" id="node20" href="$tagtype5__wrapper_8c.html" title="This file provides an abstraction layer to the libNDEF for the NFC Forum Type5 Tag. " alt="" coords="2512,717,2685,788"/>
+<area shape="rect" id="node22" href="$lib___n_d_e_f___a_a_r_8c.html" title="This file help to add AAR to NDEF file. " alt="" coords="5,717,179,788"/>
+<area shape="rect" id="node25" href="$_menu__definition_8c.html" title="This file defines the content of the menu for the ST25DV demo. " alt="" coords="3329,836,3567,907"/>
+<area shape="rect" id="node28" href="$lib___n_d_e_f___bluetooth_8c.html" title="This file help to manage a NDEF file representing a Bluetooth pairing info. " alt="" coords="2276,717,2452,788"/>
+<area shape="rect" id="node31" href="$lib___n_d_e_f___email_8c.html" title="This file help to manage NDEF file that represent Email. " alt="" coords="203,717,376,788"/>
+<area shape="rect" id="node33" href="$lib___n_d_e_f___geo_8c.html" title="This file help to manage NDEF file that represent geolocation. " alt="" coords="597,717,771,788"/>
+<area shape="rect" id="node35" href="$lib___n_d_e_f___handover_8c.html" title="This file helps to manage a NDEF Handover message. &#160;" alt="" coords="1879,717,2054,788"/>
+<area shape="rect" id="node37" href="$lib___n_d_e_f___my_app_8c.html" title="This file help to manage the NDEF file of a private application. " alt="" coords="1611,717,1784,788"/>
+<area shape="rect" id="node45" href="$scope_8c.html" title="This file contains the scope displaying methods. " alt="" coords="3389,480,3576,551"/>
+<area shape="rect" id="node47" href="$_menu_definition_8c.html" title="This file defines the content of the menu for the ST25DV demo. " alt="" coords="3486,599,3773,669"/>
+<area shape="rect" id="node49" href="$_fw_upgd_2_inc_2fw__command_8h_source.html" title="C:/Users/lemonnir/Temp\l/Git/export/Projects/ST25DV\l&#45;Discovery/Demonstrations\l/ST25DVDemo_FwUpgd/Inc/fw_command.h" alt="" coords="2989,480,3264,551"/>
+</map>

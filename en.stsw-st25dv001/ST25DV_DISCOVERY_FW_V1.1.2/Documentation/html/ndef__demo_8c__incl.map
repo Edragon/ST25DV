@@ -1,0 +1,16 @@
+<map id="C:/Users/lemonnir/Temp/Git/export/Projects/ST25DV&#45;Discovery/Demonstrations/ST25DVDemo/Src/ndef_demo.c" name="C:/Users/lemonnir/Temp/Git/export/Projects/ST25DV&#45;Discovery/Demonstrations/ST25DVDemo/Src/ndef_demo.c">
+<area shape="rect" id="node5" href="$st25dx__discovery__lcd_8h.html" title="This file contains all the functions prototypes for the st25dx_discovery_lcd.c driver. " alt="" coords="651,124,808,151"/>
+<area shape="rect" id="node6" href="$st25dx__discovery_8h.html" title="This file contains definitions for ST25Dx&#45;Discovery Kit LEDs, push&#45;buttons hardware resources..." alt="" coords="513,273,647,300"/>
+<area shape="rect" id="node14" href="$_menu__core_8h_source.html" title="Menu_core.h" alt="" coords="1019,199,1117,225"/>
+<area shape="rect" id="node16" href="$_menu__config_8h.html" title="Menu configuration header file. " alt="" coords="883,124,989,151"/>
+<area shape="rect" id="node19" href="$tagtype5__wrapper_8h.html" title="This file provides an abstraction layer to the libNDEF for the NFC Forum Type5 Tag. " alt="" coords="179,124,314,151"/>
+<area shape="rect" id="node24" href="$_vcard_c_s_l1_8h.html" title="data array of the bmp picture (RGB565). " alt="" coords="1403,124,1501,151"/>
+<area shape="rect" id="node25" href="$st25dx__bluenrg__ble_8h.html" title="st25dx_bluenrg_ble.h" alt="" coords="430,124,575,151"/>
+<area shape="rect" id="node9" href="$st25dx__discovery__errno_8h.html" title="This file provides set of BSP error number. " alt="" coords="686,348,855,375"/>
+<area shape="rect" id="node10" href="$ili9341__cube_8h.html" title="This file contains all the functions prototypes for the ili9341_cube.c driver. " alt="" coords="803,199,909,225"/>
+<area shape="rect" id="node13" href="$fonts_8h.html" title="Header for fonts.c file. " alt="" coords="933,199,995,225"/>
+<area shape="rect" id="node11" href="$lcd_8h.html" title="This file contains all the functions prototypes for the LCD driver. " alt="" coords="803,273,922,300"/>
+<area shape="rect" id="node20" href="$lib___n_d_e_f_8h.html" title="This file help to manage NDEF file. " alt="" coords="176,199,264,225"/>
+<area shape="rect" id="node21" href="$lib__wrapper_8h.html" title="This file help to have upper layer independent from HW. " alt="" coords="169,273,268,300"/>
+<area shape="rect" id="node26" href="$st25dx__discovery__bluenrg_8h.html" title="This file contains definitions for SPI communication BLE BlueNRG Moduke Board. " alt="" coords="342,199,525,225"/>
+</map>
